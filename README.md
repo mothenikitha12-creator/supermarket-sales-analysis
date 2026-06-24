@@ -1,2 +1,48 @@
-# supermarket-sales-analysis
-Supermarket Sales Analysis is a data analytics project that explores supermarket transaction data to identify sales trends, customer behavior, and product performance. It uses Python, Pandas, and visualization techniques to generate actionable business insights for better decision-making.
+\# 🛒 Supermarket Sales Analysis
+
+
+
+This project analyzes supermarket sales data using Streamlit and Python.
+
+
+
+\## Files
+
+\- supermarket.py
+
+\- supermarket\_sales.csv
+
+
+
+\## Technologies Used
+
+\- Python
+
+\- Pandas
+
+\- Streamlit
+
+\- Matplotlib
+
+\- Seaborn
+
+
+
+\## Features
+
+\- Sales Analysis
+
+\- Charts \& Graphs
+
+\- Filters
+
+\- Heatmap
+
+\- Monthly Trends
+
+
+
+\## Intern ID
+
+CITS1257
+
